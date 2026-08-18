@@ -25,6 +25,9 @@ Este repositorio contiene:
 1. **[Guía 1 - Nad Garraz](https://github.com/nad-garraz/tda)** - Soluciones y ejercicios resueltos
 2. **[Guía 2 - Dani Bustos](https://github.com/Dani-Bustos/Algo3-TecnicasA.git)** - Problemas con enfoque práctico
 
+### 🎮 Herramientas Interactivas
+- **[Eunor - Atlas TDA](https://eunor.app)** - Aplicación web interactiva para aprender técnicas de diseño de algoritmos de forma didáctica
+
 ## 📝 Temas Cubiertos
 
 - **Grafos:** Algoritmos de búsqueda, caminos más cortos, componentes conexas
